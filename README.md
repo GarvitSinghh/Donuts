@@ -19,6 +19,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 | 1 | C                         | [Andy Sloane](https://github.com/a1k0n)                             |
 | 2 | Python &emsp;&emsp;&emsp; | [DhrumanGupta](https://github.com/DhrumanGupta/) &emsp;&emsp;&emsp; |
 | 3 | NodeJS                    | [VB-17](https://github.com/VB-17/)                                  |
+| 4 | Dart                      | [GarvitSinghh](https://github.com/GarvitSinghh/)                    |
 
 # References
 
