@@ -1,9 +1,8 @@
-var tmr1 = undefined,
-  tmr2 = undefined;
 var A = 1,
   B = 1;
 
 var asciiframe = function () {
+  console.clear();
   var b = [];
   var z = [];
 
@@ -51,4 +50,7 @@ var asciiframe = function () {
   console.log(b.join(""));
 };
 
-setInterval(asciiframe, 50);
+setInterval(() => {
+  process.stdout.write("\x1Bc");
+  asciiframe();
+}, 50);
