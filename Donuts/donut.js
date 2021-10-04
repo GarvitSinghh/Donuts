@@ -2,7 +2,6 @@ var A = 1,
   B = 1;
 
 var asciiframe = function () {
-  console.clear();
   var b = [];
   var z = [];
 
