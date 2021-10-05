@@ -11,7 +11,7 @@ class Donut {
 			if (isWindows) {
 				new ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor();
 			} else {
-				Runtime.getRuntime().exec("clear");
+				new ProcessBuilder("clear").inheritIO().start().waitFor();
 			}
 
 			A += 0.07;
