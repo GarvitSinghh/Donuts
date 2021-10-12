@@ -21,6 +21,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 | 3 | NodeJS                    | [VB-17](https://github.com/VB-17/)                                  |
 | 4 | Dart                      | [GarvitSinghh](https://github.com/GarvitSinghh/)                    |
 | 4 | Java                      | [GeniusJam](https://github.com/geniusjam/)                          |
+| 5 | C#                        | [Chris Jones](https://github.com/cmjchrisjones)
 
 # References
 
