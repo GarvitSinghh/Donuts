@@ -20,8 +20,9 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 | 2 | Python &emsp;&emsp;&emsp; | [DhrumanGupta](https://github.com/DhrumanGupta/) &emsp;&emsp;&emsp; |
 | 3 | NodeJS                    | [VB-17](https://github.com/VB-17/)                                  |
 | 4 | Dart                      | [GarvitSinghh](https://github.com/GarvitSinghh/)                    |
-| 4 | Java                      | [GeniusJam](https://github.com/geniusjam/)                          |
-| 5 | C#                        | [Chris Jones](https://github.com/cmjchrisjones)
+| 5 | Java                      | [GeniusJam](https://github.com/geniusjam/)                          |
+| 6 | C#                        | [Chris Jones](https://github.com/cmjchrisjones)                     |
+| 7 | PHP                       | [richruizv](https://github.com/richruizv)                           |
 
 # References
 
