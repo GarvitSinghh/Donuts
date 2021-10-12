@@ -10,6 +10,12 @@ internal object Donut {
     @JvmStatic
     fun main(args: Array<String>) {
         while (true) {
+            val isWindows = System.getProperty("os.name").contains("Windows");
+            if(isWindows){
+                ProcessBuilder("cmd", "/c", "cls").inheritIO().start().waitFor()
+            }else{
+                ProcessBuilder("clear").inheritIO().start().waitFor()
+            }
             A += 0.07
             B += 0.03
             val cA = cos(A)
