@@ -23,6 +23,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 | 5 | Java                      | [GeniusJam](https://github.com/geniusjam/)                          |
 | 6 | C#                        | [Chris Jones](https://github.com/cmjchrisjones)                     |
 | 7 | PHP                       | [richruizv](https://github.com/richruizv)                           |
+| 8 | Go                        | [Motasim](https://github.com/motasimmakki)                           |
 
 # References
 
