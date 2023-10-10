@@ -26,6 +26,7 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) for more.
 | 8   | Go                        | [Motasim](https://github.com/motasimmakki)                          |
 | 9   | Kotlin                    | [JyotimoyKashyap](https://github.com/JyotimoyKashyap)               |
 | 10  | C++                       | [uzma024](https://github.com/uzma024)                               |
+| 11  | D                         | [IUseDebianBtw](https://github.com/IUseDebianBtw)
 
 # References
 
