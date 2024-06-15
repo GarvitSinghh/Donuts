@@ -17,7 +17,7 @@ def main():
 
     os.system(clear)
     while True:
-        z = [0 for _ in range(4*height*width)]
+        z = [0 for _ in range(height*width)]
         screen = [' ' for _ in range(height*width)]
 
         j=0
